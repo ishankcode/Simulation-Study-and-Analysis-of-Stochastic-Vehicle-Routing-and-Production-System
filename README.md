@@ -5,6 +5,15 @@ In this study, attempt is made to solve one type of VRP known as Capacitated Veh
 The goal is to optimize the last mile delivery process by calculating optimum delivery routes and minimizing the transportation costs while ensuring minimum number of stockouts.
  
  ---
+ ## <ins>Tools</ins>
+ 
+ - Python - Pandas, Numpy, Scipy, math, Gurobi Solver, Random, Seaborn
+ - Excel
+ - SIMIO
+ 
+ ### (700+ Lines of code)
+ 
+ ---
 
 ## <ins>Project is divided in 3 parts: </ins>
  
